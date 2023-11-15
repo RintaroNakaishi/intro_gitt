@@ -1,5 +1,5 @@
 Git
-基本
+[基本]
 
 ・git add
 ・git commit
