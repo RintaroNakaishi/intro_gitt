@@ -1,3 +1,6 @@
 Git
 基本
-こんにちは
+
+・git add
+・git commit
+・git rm
